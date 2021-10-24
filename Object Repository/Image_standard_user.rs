@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Image_standard_user</name>
+   <tag></tag>
+   <elementGuidId>0513ea42-c7ec-4394-ae80-18b8065aef13</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@src='/static/media/sauce-backpack-1200x1500.34e7aa42.jpg']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//img[@src='/static/media/sauce-backpack-1200x1500.34e7aa42.jpg']</value>
+   </webElementProperties>
+</WebElementEntity>
